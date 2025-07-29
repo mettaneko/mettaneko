@@ -6,4 +6,5 @@
 - Currently project - [Project://Rilda](https://rilda.mettaneko.ru)
 - I code in Python, C++, C#, HTML and a little on JS
 - I'm currently interested in web and gamedev development.
-- [BLood is FUEL.] [Hell is FULL.]
+
+[Blood is FUEL.] [Hell is FULL.]
