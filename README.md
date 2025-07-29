@@ -1,4 +1,4 @@
-<img src="" alt="mettaneko" width="400"/> 
+<img src="https://mettaneko.ru/assets/nickname.png" alt="mettaneko" width="400"/> 
 
 - Nickname is mettaneko.
 - Pronouns are He/Him.
