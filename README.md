@@ -1,8 +1,3 @@
-<div align="center">
-<img align="center" src="https://mettaneko.ru/assets/nickname.png" alt="mettaneko" width="400" height="200"/> 
-</div>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -28,13 +23,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
-
-###
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mettaneko&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
-
-###
-###
 </p>
