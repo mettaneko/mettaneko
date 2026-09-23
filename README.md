@@ -23,4 +23,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=glutesha&color=blue&style=for-the-badge">
+</div>
 </p>
